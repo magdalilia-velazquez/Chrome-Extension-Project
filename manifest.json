@@ -2,15 +2,12 @@
     "manifest_version": 2,
     
     "name": "My First Chrome Extension",
-    "version": "0.0.0.1",
+    "version": "0.1.0.0",
     "description": "Computer Science Chrome Extension project to Modify HTML and CSS",
     
-    "background": {
-        "scripts": ["background.js"]
-    },
     "content_scripts": [{
         "css": ["styles.css"],
-        "js": ["jquery-3.2.1.min.js", "content.js"],
+        "js": ["content.js"],
         "matches": ["<all_urls>"]
     }],
     "browser_action": {
