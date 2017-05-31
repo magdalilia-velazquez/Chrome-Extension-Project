@@ -1,19 +1,4 @@
-/*CSS*/
 body {
-  background: url('https://media0.giphy.com/media/VjJ7VAmTbTDs4/200_s.gif#10-grid1') !important;
-}
- 
-#masthead,
-#primary {
-  -webkit-filter: invert(100%);
-  filter: invert(100%);
-  background-color: #fff;
-  padding: 20px !important;
-}
-#masthead {
-  background: none;
-}
-#masthead img, #primary img {
-  -webkit-filter: invert(100%);
-  filter: invert(100%);
+  background: url('https://images-blogger-opensocial.googleusercontent.com/gadgets/proxy?url=http%3A%2F%2F2.bp.blogspot.com%2F-22DCDc4oDNc%2FVF0cI-xlUzI%2FAAAAAAAAFNU%2FsbjUEXpoh4c%2Fs320%2Fcolored%252Bcircles.gif&container=blogger&gadget=a&rewriteMime=image%2F*') !important;
+  background-size: cover;
 }
