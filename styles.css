@@ -1,4 +1,12 @@
 body {
-  background: url('https://images-blogger-opensocial.googleusercontent.com/gadgets/proxy?url=http%3A%2F%2F2.bp.blogspot.com%2F-22DCDc4oDNc%2FVF0cI-xlUzI%2FAAAAAAAAFNU%2FsbjUEXpoh4c%2Fs320%2Fcolored%252Bcircles.gif&container=blogger&gadget=a&rewriteMime=image%2F*') !important;
-  background-size: cover;
+  background: url('https://s-media-cache-ak0.pinimg.com/originals/01/dd/97/01dd97eacc9079ae91d3330c2aef6278.gif') !important;
+  background-size: cover !important;
+}
+p {
+    font-size: 20px;
+    color: crimson;
+}
+
+input {
+    color: palegreen;
 }
