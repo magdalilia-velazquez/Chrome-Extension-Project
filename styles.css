@@ -1,6 +1,6 @@
 body {
-  background: url('https://s-media-cache-ak0.pinimg.com/originals/01/dd/97/01dd97eacc9079ae91d3330c2aef6278.gif') !important;
-  background-size: cover !important;
+  background: url('https://media.giphy.com/media/bq6Ohp2P8DszK/giphy.gif') !important;
+  background-size: auto !important;
 }
 p {
     font-size: 20px;
@@ -9,4 +9,29 @@ p {
 
 input {
     color: palegreen;
+}
+
+::selection {
+    color: black;
+    background: yellow;
+}
+
+a:visited {
+    color: deeppink;
+}
+
+input:focus {
+    background-color: palegreen;
+}
+
+a:hover {
+    color: aqua;
+}
+
+a:link {
+    color: blueviolet;
+}
+
+a:active {
+    color: dimgrey;
 }
