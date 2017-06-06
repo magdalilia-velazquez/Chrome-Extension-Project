@@ -1,14 +1,14 @@
 body {
   background: url('https://media.giphy.com/media/bq6Ohp2P8DszK/giphy.gif') !important;
-  background-size: auto !important;
+  background-size: auto!important;
 }
 p {
-    font-size: 20px;
+    font-size: 25px;
     color: crimson;
 }
 
 input {
-    color: palegreen;
+    color: lightseagreen;
 }
 
 ::selection {
@@ -34,4 +34,7 @@ a:link {
 
 a:active {
     color: dimgrey;
+}
+h1 {
+    text-shadow: 3px 2px red;
 }
